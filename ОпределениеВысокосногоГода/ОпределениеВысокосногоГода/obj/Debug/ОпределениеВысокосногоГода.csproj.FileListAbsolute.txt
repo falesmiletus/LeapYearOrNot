@@ -1,0 +1,7 @@
+C:\Users\mixai\source\repos\ОпределениеВысокосногоГода\ОпределениеВысокосногоГода\bin\Debug\ОпределениеВысокосногоГода.exe.config
+C:\Users\mixai\source\repos\ОпределениеВысокосногоГода\ОпределениеВысокосногоГода\bin\Debug\ОпределениеВысокосногоГода.exe
+C:\Users\mixai\source\repos\ОпределениеВысокосногоГода\ОпределениеВысокосногоГода\bin\Debug\ОпределениеВысокосногоГода.pdb
+C:\Users\mixai\source\repos\ОпределениеВысокосногоГода\ОпределениеВысокосногоГода\obj\Debug\ОпределениеВысокосногоГода.csproj.AssemblyReference.cache
+C:\Users\mixai\source\repos\ОпределениеВысокосногоГода\ОпределениеВысокосногоГода\obj\Debug\ОпределениеВысокосногоГода.csproj.CoreCompileInputs.cache
+C:\Users\mixai\source\repos\ОпределениеВысокосногоГода\ОпределениеВысокосногоГода\obj\Debug\ОпределениеВысокосногоГода.exe
+C:\Users\mixai\source\repos\ОпределениеВысокосногоГода\ОпределениеВысокосногоГода\obj\Debug\ОпределениеВысокосногоГода.pdb
